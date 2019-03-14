@@ -58,3 +58,5 @@ https://github.com/ossu/computer-science
 https://github.com/rishabh115/Interview-Questions
 
 https://github.com/topics/nosql-database
+
+https://github.com/vinta/awesome-python
