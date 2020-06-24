@@ -1,6 +1,8 @@
 # data
 https://getawesomeness.herokuapp.com/
 
+https://getawesomeness.herokuapp.com/get/java
+
 https://github.com/josephmisiti/awesome-machine-learning
 
 https://github.com/datascienceid/machine-learning-resources
